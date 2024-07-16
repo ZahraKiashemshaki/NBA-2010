@@ -7,11 +7,6 @@ Overview
 
 The NBA 2010 dataset includes comprehensive statistics for players and teams during the 2010 season. This project focuses on:
 
-Data Preprocessing: Cleaning and preparing the dataset for analysis.
-Exploratory Data Analysis (EDA): Investigating data distributions, correlations, and trends.
-Data Visualization: Creating various plots to visualize player and team performance metrics.
-Methodology
-
 Data Preprocessing: Handling missing values, normalizing statistics, and categorizing players by position and teams.
 Exploratory Data Analysis: Using summary statistics and correlation analysis to identify key relationships in the data.
 Visualization Techniques: Employing scatter plots, bar charts, heatmaps, and interactive visualizations using libraries like Matplotlib, Seaborn, and Plotly.
